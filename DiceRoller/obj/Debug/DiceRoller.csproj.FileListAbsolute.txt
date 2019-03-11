@@ -1,0 +1,14 @@
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojAssemblyReference.cache
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\ATimko\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
+E:\All Files net\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+E:\All Files net\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+E:\All Files net\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+E:\All Files net\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojAssemblyReference.cache
+E:\All Files net\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+E:\All Files net\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+E:\All Files net\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
